@@ -11,7 +11,7 @@ In the terminal:  npx create-next-app@latest .
 
 npm run dev
 
-Prompt: I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Replace the homepage with a modern looking form that allows users to enter a city name and submit it.  Use TailwindCSS for styling.
+Prompt: I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Replace the homepage with a modern looking form that allows users to enter a city name and submit it.  Use TailwindCSS for styling.  Use the openweathermap API to fetch and display the current weather for the entered city.  Add client-side validation to ensure the city name is not empty before submission.  
 
 
 Selection:
