@@ -90,7 +90,7 @@ MCP Demo
 - Create a todo app using the nextjs
 
 
-- npx create-next-app@latest weather-app
+- npx create-next-app@latest todo
 
 
 
