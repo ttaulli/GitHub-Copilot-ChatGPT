@@ -85,6 +85,8 @@ MCP Demo
 - Click it
 - You can select/deselect the tools you want to use
 - Prompt: What is the schema for the tasks table in the todo project?
+
+- Use Claude Sonnet 3.7
 - Prompt: Add a completed field.
 
 - Agent and unit testing
