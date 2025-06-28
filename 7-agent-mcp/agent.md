@@ -11,7 +11,8 @@ In the terminal:  npx create-next-app@latest .
 
 npm run dev
 
-Prompt: Let's create a NextJS app for this.  Use the OpenWeatherMap API.  I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Create a page that allows users to enter a city name and displays the current weather information for that city.
+Prompt: I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Replace the homepage with a modern looking form that allows users to enter a city name and submit it.  Use TailwindCSS for styling.
+
 
 Selection:
 - Nextjs
