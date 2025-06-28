@@ -1,5 +1,5 @@
-# write a function that adds two numbers
-
-def add(a, b):  
+def add_numbers(a: float, b: float) -> float:
+    """Add two numbers and return the result."""
     return a + b
+
 

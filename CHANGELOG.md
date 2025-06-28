@@ -32,3 +32,7 @@ Semantic Versioning: 1.0.0
 - API key now required in `.env.local` as `NEXT_PUBLIC_OPENWEATHERMAP_API_KEY` (see `.env.example`).
 - Updated `.gitignore` to ensure `.env` files are excluded.
 - Documented environment variable usage in `README.md`.
+
+## [1.1.1] - 2025-06-28
+### Added
+- Added `add_numbers(a: float, b: float) -> float` function to `5-writing-code/sample.py` to sum two numbers.
