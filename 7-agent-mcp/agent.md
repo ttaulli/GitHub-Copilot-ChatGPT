@@ -79,12 +79,12 @@ MCP Demo
 - Save the file
 - You will see Start inside it
 - Click it to run the mcp server
-- Enter your access toke for supabase
+- Enter your access token for supabase
 - Activate Chat
 - In the tools icon, you will see you have 26
 - Click it
 - You can select/deselect the tools you want to use
-- Prompt: What is the schema of the todos table?
+- Prompt: What is the schema for the tasks table in the todo project?
 - Prompt: Add a completed field.
 
 - Agent and unit testing
