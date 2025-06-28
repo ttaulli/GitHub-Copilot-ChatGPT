@@ -29,3 +29,18 @@
 - [Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT](https://arxiv.org/abs/2304.10778)
 - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 - [AI code, security, and trust in modern development](https://snyk.io/reports/ai-code-security/)
+
+## Weather App Environment Variables
+
+To use the weather lookup feature, you must provide an OpenWeatherMap API key.
+
+1. Copy `.env.example` to `.env.local` in the `weather-app` directory:
+   ```sh
+   cp .env.example .env.local
+   ```
+2. Edit `.env.local` and set your API key:
+   ```env
+   NEXT_PUBLIC_OPENWEATHERMAP_API_KEY=your_api_key_here
+   ```
+
+The app will not work without a valid API key.

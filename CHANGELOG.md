@@ -25,3 +25,12 @@ Semantic Versioning: 1.0.0
 - API key now required in `.env` as `NEXT_PUBLIC_OPENWEATHERMAP_API_KEY` (see `.env.example`).
 - Updated `.gitignore` to ensure `.env` files are excluded.
 - Documented environment variable usage in `README.md`.
+
+## [1.2.0] - 2025-06-28
+### Changed
+- Replaced homepage in `weather-app` with a modern TailwindCSS form for city weather lookup.
+- Added client-side validation for city input.
+- Integrated OpenWeatherMap API fetch and display.
+- API key now required in `.env.local` as `NEXT_PUBLIC_OPENWEATHERMAP_API_KEY` (see `.env.example`).
+- Updated `.gitignore` to ensure `.env` files are excluded.
+- Documented environment variable usage in `README.md`.

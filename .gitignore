@@ -1,2 +1,6 @@
 # Ignore the weather-app folder inside 7-agent-mcp (for local projects, not tracked in main repo)
 7-agent-mcp/weather-app/
+
+# Local environment variables
+.env.local
+.env*

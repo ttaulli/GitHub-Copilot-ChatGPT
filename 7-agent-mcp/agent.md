@@ -19,7 +19,7 @@ Selection:
 - OpenWeatherMap API
 - https://openweathermap.org/api
 - Register and get the API
-- API Key/Weather - 5713368301d35528e4ecf77aa1aba82d
+- API Key/Weather - 07153ca4f348f38a41b9c0e3ee0ca7fa
 
 
 MCP Demo
