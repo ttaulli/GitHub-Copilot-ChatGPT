@@ -32,19 +32,17 @@ MCP Demo
 - Create an account: https://supabase.com/
 - Click Start project
 - Register an account
-- Enter the name of the project
+- Enter the name of the project/todo
 - Enter password
 - Select Table Editor
 - Select Create a new table
-- Name: Todos
+- Name: tasks
 - Click New column
-- For name, enter: task
+- title: string
+- completed: boolean
 - Click save
 - Click Insert to add new rows of data
 
-- To to the terminal 
-- npm install -g @supabase/mcp-server-supabase
-- This command installs the Supabase MCP server globally on your system.
 - Obtain Your Supabase Personal Access Token
 - Click on your profile avatar and select Account preferences.
 - Select Access Tokens
