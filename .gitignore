@@ -1,6 +1,9 @@
 # Ignore the weather-app folder inside 7-agent-mcp (for local projects, not tracked in main repo)
 7-agent-mcp/weather-app/
 
+# Ignore the todo folder inside 7-agent-mcp (prevent merges with GitHub repo)
+7-agent-mcp/todo/
+
 # Local environment variables
 .env.local
 .env*
