@@ -87,7 +87,9 @@ MCP Demo
 - Prompt: What is the schema for the tasks table in the todo project?
 
 - Use Claude Sonnet 3.7
-- Prompt: Add a completed field.
+- Create a todo app using the nextjs
+- Or ask chatgpt to come up with a simple db app to test supabase
+
 
 - Agent and unit testing
 
