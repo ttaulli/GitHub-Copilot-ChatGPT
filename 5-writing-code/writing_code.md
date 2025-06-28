@@ -10,9 +10,10 @@
 - enforces shared conventions across all contributors 
 
 - .GitHub folder
-- copilot-instructions.md
+- copilot-instructions.md (review it)
 - This is added to your prompts
 - Check references
+- Test it by creating a simple program
 
 - Best Practices
 - Keep instructions short and specific. One guideline per line .
