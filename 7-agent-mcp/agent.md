@@ -88,13 +88,14 @@ MCP Demo
 
 - Use Claude Sonnet 3.7
 - Create a todo app using the nextjs
-- Or ask chatgpt to come up with a simple db app to test supabase
 
 
-- Agent and unit testing
+- npx create-next-app@latest weather-app
+
+
 
 # Unit Tests
-
+- Agent and unit testing
 - GitHub Copilot can create test cases
 - Can't do everything
 - But provide a good start
