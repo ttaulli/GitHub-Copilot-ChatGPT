@@ -68,7 +68,7 @@ MCP Demo
   "servers": {
     "supabase": {
       "command": "npx",
-      "args": ["-y", "@supabase/mcp-server-supabase@latest"],
+      "args": ["-y", "@supabase/mcp-server-supabase@latest", "--read-only", "--project-ref=<project-ref>"],
       "env": {
         "SUPABASE_ACCESS_TOKEN": "${input:supabase-access-token}"
       }
