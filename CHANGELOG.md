@@ -19,6 +19,12 @@ Semantic Versioning: 1.0.0
 
 ## [1.1.0] - 2025-06-28
 ### Added
+- Created a modern Todo application in the Next.js project using TailwindCSS.
+- Implemented Supabase integration for storing and managing tasks.
+- Added functionality to add, mark as completed, and delete tasks.
+- Set up environment variables for Supabase URL and anon key.
+- Updated README.md with setup instructions for the Todo application.
+### Added
 - Replaced homepage with a modern weather form using TailwindCSS, client-side validation, and weather display.
 - Created `/api/weather` endpoint to fetch weather from OpenWeatherMap API securely.
 - Added `.env.local` and `.env.example` for API key management.
