@@ -3,10 +3,14 @@ CHANGELOG
 Semantic Versioning: 1.2.1
 """
 
-## [1.4.0] - 2025-06-29
+
+## [1.5.0] - 2025-06-29
+### Added
+- Created `README.md` in `7-agent-mcp/api_server/` with project description, setup instructions, endpoint documentation, and request/response examples.
+- Added `.env.example` in `7-agent-mcp/api_server/` for documenting environment variables (none required by default).
+
 ### Changed
-- Expanded `api_server.py` in `7-agent-mcp/` to provide four endpoints: `/hello` (GET), `/echo` (POST), `/items/{item_id}` (GET), and `/items` (POST).
-- Updated `README.md` in `7-agent-mcp/` with new endpoint documentation and usage examples.
+- Documented the process for creating and updating the API server's README.md as per open issue #2.
 
 ## [1.3.0] - 2025-06-29
 ### Added

@@ -130,6 +130,10 @@ MCP Demo
   }
 }
 
+Prompt: For the github repost, are there any pull requests?
+
+Prompt:  What about issues?
+
 
 
 - Use Claude Sonnet 3.7
