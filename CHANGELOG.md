@@ -3,6 +3,17 @@ CHANGELOG
 Semantic Versioning: 1.2.1
 """
 
+## [1.4.0] - 2025-06-29
+### Changed
+- Expanded `api_server.py` in `7-agent-mcp/` to provide four endpoints: `/hello` (GET), `/echo` (POST), `/items/{item_id}` (GET), and `/items` (POST).
+- Updated `README.md` in `7-agent-mcp/` with new endpoint documentation and usage examples.
+
+## [1.3.0] - 2025-06-29
+### Added
+- Created `api_server.py` in `7-agent-mcp/` with a FastAPI server exposing `/hello` (GET) and `/echo` (POST) endpoints.
+- Added `pydantic` to requirements for FastAPI data validation.
+- Created `README.md` in `7-agent-mcp/` with usage and endpoint documentation.
+
 ## [1.2.1] - 2025-06-28
 ### Added
 - Created `test_tests.py` in `7-agent-mcp/` to provide unit tests for the `calculate` function in `tests.py` using the `unittest` framework.
