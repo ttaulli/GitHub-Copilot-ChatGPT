@@ -91,7 +91,7 @@ MCP Demo
 
 
 - npx create-next-app@latest todo
-
+- Prompt: In the todo nextjs project, replace the home page with a modern looking to do application. Use TailwindCSS for styling.  The to do items will be stored in the supabase database called todo.  The table is called tasks and has two columns: title (string) and completed (boolean).  The app should allow users to add new tasks, mark tasks as completed, and delete tasks.  Fetch the tasks from the supabase database and display them on the homepage.  Use environment variables for the supabase URL and anon key.
 
 
 # Unit Tests
