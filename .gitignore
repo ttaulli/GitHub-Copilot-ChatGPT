@@ -7,3 +7,6 @@
 # Local environment variables
 .env.local
 .env*
+
+# Ignore Python bytecode files
+7-agent-mcp/__pycache__/

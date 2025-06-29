@@ -105,6 +105,5 @@ MCP Demo
 - /tests and run it 
 - tests.py
 
-- GitHub Copilot Spark
 
-https://spark.githubnext.com/
+Prompt:  Please create a separate unit test tests.py. The test file should be in the same 7-agent-mcp directory and named test_tests.py. Make sure all import paths are correct for running the tests. Use unittest for the test framework.

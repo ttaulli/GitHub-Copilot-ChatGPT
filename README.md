@@ -44,3 +44,23 @@ To use the weather lookup feature, you must provide an OpenWeatherMap API key.
    ```
 
 The app will not work without a valid API key.
+
+## Usage
+
+To run the calculator program interactively:
+
+```bash
+python 7-agent-mcp/calculator.py
+```
+
+To run the unit tests:
+
+```bash
+python -m unittest 7-agent-mcp/test_calculate.py
+```
+
+To run the unit tests for the `tests.py` calculator logic:
+
+```bash
+python -m unittest 7-agent-mcp/test_tests.py
+```

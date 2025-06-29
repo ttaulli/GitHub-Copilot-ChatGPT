@@ -1,21 +1,21 @@
 """
 CHANGELOG
-Semantic Versioning: 1.0.0
+Semantic Versioning: 1.2.1
 """
 
-## [1.0.0] - 2025-06-28
+## [1.2.1] - 2025-06-28
 ### Added
-- Created a weather page in Next.js app to allow users to enter a city and view current weather using OpenWeatherMap API.
-- Moved API key to environment variable and documented in .env.example and README.md.
-- Added input validation and error handling for user input and API responses.
+- Created `test_tests.py` in `7-agent-mcp/` to provide unit tests for the `calculate` function in `tests.py` using the `unittest` framework.
+- Updated `README.md` with instructions for running the new test file.
 
-## [1.0.1] - 2025-06-28
-### Added
-- Created .gitignore to exclude 7-agent-mcp/ from version control.
-
-## [1.0.2] - 2025-06-28
+## [1.2.0] - 2025-06-28
 ### Changed
-- Updated .gitignore to ignore only 7-agent-mcp/weather-app/ instead of the entire 7-agent-mcp/ folder.
+- Replaced homepage in `weather-app` with a modern TailwindCSS form for city weather lookup.
+- Added client-side validation for city input.
+- Integrated OpenWeatherMap API fetch and display.
+- API key now required in `.env.local` as `NEXT_PUBLIC_OPENWEATHERMAP_API_KEY` (see `.env.example`).
+- Updated `.gitignore` to ensure `.env` files are excluded.
+- Documented environment variable usage in `README.md`.
 
 ## [1.1.0] - 2025-06-28
 ### Added
@@ -30,15 +30,16 @@ Semantic Versioning: 1.0.0
 - Added `.env.local` and `.env.example` for API key management.
 - Updated `README.md` with environment variable documentation.
 
-## [1.2.0] - 2025-06-28
+## [1.0.2] - 2025-06-28
 ### Changed
-- Replaced homepage in `weather-app` with a modern TailwindCSS form for city weather lookup.
-- Added client-side validation for city input.
-- Integrated OpenWeatherMap API fetch and display.
-- API key now required in `.env.local` as `NEXT_PUBLIC_OPENWEATHERMAP_API_KEY` (see `.env.example`).
-- Updated `.gitignore` to ensure `.env` files are excluded.
-- Documented environment variable usage in `README.md`.
+- Updated .gitignore to ignore only 7-agent-mcp/weather-app/ instead of the entire 7-agent-mcp/ folder.
 
-## [1.1.1] - 2025-06-28
+## [1.0.1] - 2025-06-28
 ### Added
-- Added `add_numbers(a: float, b: float) -> float` function to `5-writing-code/sample.py` to sum two numbers.
+- Created .gitignore to exclude 7-agent-mcp/ from version control.
+
+## [1.0.0] - 2025-06-28
+### Added
+- Created a weather page in Next.js app to allow users to enter a city and view current weather using OpenWeatherMap API.
+- Moved API key to environment variable and documented in .env.example and README.md.
+- Added input validation and error handling for user input and API responses.
