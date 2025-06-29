@@ -86,6 +86,50 @@ MCP Demo
 - You can select/deselect the tools you want to use
 - Prompt: What is the schema for the tasks table in the todo project?
 
+- add MCP for github
+
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "supabase-access-token",
+      "description": "Supabase personal access token",
+      "password": true
+    },
+    {
+      "type": "promptString",
+      "id": "github-access-token",
+      "description": "GitHub personal access token",
+      "password": true
+    }
+  ],
+  "servers": {
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--read-only",
+        "--project-ref=<project-ref>"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "${input:supabase-access-token}"
+      }
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github@latest",
+        "--repo=ttaulli/GitHub-Copilot-ChatGPT",
+      ],
+      "env": {
+        "GITHUB_ACCESS_TOKEN": "${input:github-access-token}"
+      }
+    }
+  }
+}
+
 - Use Claude Sonnet 3.7
 - Create a todo app using the nextjs
 
