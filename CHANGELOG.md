@@ -1,10 +1,21 @@
-"""
-CHANGELOG
-Semantic Versioning: 1.2.1
-"""
 
+CHANGELOG
+Semantic Versioning: 1.7.0
+
+
+## [1.7.0] - 2025-07-01
+### Added
+- Implemented Weather App in `7-agent-mcp/weather-app/weather-app/` with NextJS and TailwindCSS
+- Created a modern UI for weather form submission with client-side validation
+- Set up OpenWeatherMap API integration with proper error handling
+- Added environment variables configuration for secure API key storage
+
+## [1.6.0] - 2025-07-01
+### Added
+- Created `sample.py` in `5-writing-code/` to add two numbers entered by the user, with input validation and type hints.
 
 ## [1.5.0] - 2025-06-29
+
 ### Added
 - Created `README.md` in `7-agent-mcp/api_server/` with project description, setup instructions, endpoint documentation, and request/response examples.
 - Added `.env.example` in `7-agent-mcp/api_server/` for documenting environment variables (none required by default).

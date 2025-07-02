@@ -1,0 +1,46 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {"language": "markdown"},
+      "source": [
+        "# Import Required Libraries\nWe will use pandas to handle and display the housing data."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {"language": "python"},
+      "source": [
+        "import pandas as pd"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {"language": "markdown"},
+      "source": [
+        "# Load the housing.csv File\nRead the housing data from the CSV file into a pandas DataFrame."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {"language": "python"},
+      "source": [
+        "# Load the housing.csv file into a DataFrame\nhousing_df = pd.read_csv('housing.csv')"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {"language": "markdown"},
+      "source": [
+        "# Display the Housing Data as a Table\nView the loaded housing data as a table."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {"language": "python"},
+      "source": [
+        "# Display the DataFrame as a table\nhousing_df"
+      ]
+    }
+  ]
+}
