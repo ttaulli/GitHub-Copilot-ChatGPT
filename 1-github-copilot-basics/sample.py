@@ -24,7 +24,6 @@
 https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeUSw
 # Generally, fewer models for Edit and Agent modes
 # Add context like files
-# Icon for audio
 # Ask or activate Edits or Agent
 # Ask is a basic chatbot/explanation/code generation mode
 # With Edit mode, you need to provide Chat with files as context
