@@ -3,25 +3,19 @@
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
 # Tab to accept; esc to cancel
 
-# create a function that converts fahrenheit to celsius
-# Note:  can also use the comment icon on the top right of the screen
-
-# create a function that converts fahrenheit to celsius
-
-
-
-
 
 # Start with def convert
 # def multiply(a, b):
-
-
+  
 
 # Create code by using Chat
 # Click Copilot icon on top right of the screen
 # Select Open Chat
 # Prompt:  Write a program that converts fahrenheit to celsius
 # Note:  in the chat input box, you can see chat history with up arrow.
+
+
+
 
 # In the chat, you can select the LLL (large language model)
 # Can bring in LLMs via API - select Manage Models
