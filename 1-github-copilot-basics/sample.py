@@ -59,9 +59,9 @@
 # @workspace is available only for Ask mode
 
 # Example:  my-python-project
-# Prompt:  @workspace what is todo-app?
+# Prompt:  @workspace what is webserver.js?
 # Fuzzy search
-# Prompt:  @workspace in the todo app, what code adds a task?
+# Prompt:  @workspace in the webserver.js, what port does it start listening on?
 # Click the references
 
 # #codebase is the same concept as @workspace
