@@ -110,11 +110,7 @@ def add(a, b):
 # These extensions can be used with or without Copilot, but have Copilot
 # capabilities
 # Click @ and then select Install Chat Extensions
-
-
 # Copilot allows you to build your own extenions.
-
-# Click Settings (bottom left icon) and search for Copilot
 
 # Use GitHub Copilot in GitHub.com
 # Access it by clicking the icon on the top right of the screen
