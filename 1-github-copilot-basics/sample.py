@@ -122,12 +122,8 @@ def add(a, b):
 # In the Chat, you can select the ...
 # Different ways to intereact with Chat, such as Immersive mode
 
-# short hand for GitHub Copilot
-# / @
-
 # You can have the AI generate pull request descriptions
 # Select version control icon on the left
 # Click sparkle icon
 
 # Public code matching/referencing
-# Prompt:  what is recursion? 
