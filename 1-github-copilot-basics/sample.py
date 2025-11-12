@@ -85,17 +85,6 @@ def add(a, b):
 # Can be helpful if you are going to focus on another topic
 # can also create a new chat session by clicking +
 
-# In the chat, you can select Copilot Edits
-# Top middle icon
-# Similar to the Composer feature in Cursor
-# If you are working with multiple files
-# Select files:  
-# for todo: 
-# Drag page.tsx 
-# Prompt:  Change the title to Super Todo App on the home page.
-# Review the changes
-# Keep or Undo
-# change Color of the text to green
 
 # Terminal
 # Activate it and use in-line chat
