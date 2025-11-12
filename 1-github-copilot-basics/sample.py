@@ -21,7 +21,6 @@
 # Can bring in LLMs via API - select Manage Models
 # Will see the files that are in the context
 # Which model?
-https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeUSw
 # Generally, fewer models for Edit and Agent modes
 # Add context like files
 # Ask or activate Edits or Agent
