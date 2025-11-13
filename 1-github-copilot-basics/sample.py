@@ -127,3 +127,7 @@ def add(a, b):
 # Click sparkle icon
 
 # Public code matching/referencing
+
+# New:  Agent HQ
+# Control center (also includes Claude, Codex,etc)
+# Access on menu bar
