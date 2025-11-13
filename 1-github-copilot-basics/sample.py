@@ -131,3 +131,7 @@ def add(a, b):
 # New:  Agent HQ
 # Control center (also includes Claude, Codex,etc)
 # Access on menu bar
+
+# New:  Plan mode
+# Spec
+# Will implement it
