@@ -47,6 +47,8 @@ https://chatgpt.com/share/685c324a-4b28-8010-91e4-7a0fb7b1fe9e
 
 Prompt: Could you create a survey focused on understanding what buyers look for [name the type of application]? The survey should include questions that help identify key features, usability preferences, specific industry needs, and any particular challenges buyers want to address with this type of software. Additionally, please include questions that gauge the importance of factors such as cost, support, scalability, and integration capabilities.
 
+https://chatgpt.com/share/69176bcb-7b74-8010-99e9-0e894d769a2a
+
 - Total Addressable Market (TAM)
 
 - Estimate of the total size of a market
@@ -54,6 +56,8 @@ Prompt: Could you create a survey focused on understanding what buyers look for 
 - VCs look for $1B+ TAMs
 
 Prompt:  I'm developing a website for a Resident Engagement & Social Activity Management system designed for senior living facilities.  What would the total addressable market be for this?
+
+https://chatgpt.com/share/69176ce7-23d8-8010-9d35-6bb7c0f056ce
 
 - Competition
 
@@ -102,29 +106,25 @@ FBI’s virtual case file system (2000–2005)
 Prompt: What are the main parts of a PRD (Product Requirements Document)? Create a Word document as a template
 
 
-- A PRD is a good idea befdore doing AI-assisted programming
+- A PRD is a good idea before doing AI-assisted programming
 - The different steps are essentially prompts
 
 Prompt:  I’m developing a website for a Resident Engagement & Social Activity Management system designed for senior living facilities. I want to create the dashboard that allows activity coordinators to efficiently plan, schedule, and manage daily social and wellness activities for residents. This should be designed with simplicity and functionality in mind. It will include a calendar view for quick access to upcoming activities and provide options for customizing events based on resident preferences or facility needs. Additionally, the dashboard will enable real-time updates, helping staff stay informed of any changes or cancellations.
 
 In building this, I want to use open source software or affordable and easy-to-use serverless programs.  Suggest those I should use?
 
+https://chatgpt.com/share/69176edb-8380-8010-98dc-7d7f7f156ba2
+
 Prompt:  For this program, I want to use React for the front-end, Supabase with PostgresSQL, FullCalendar for the Calendar, Pusher for the real-time communications and Vercel for the hosting.
 
 For this, create a PRD.  I will be creating the software using the AI-coding assistant, GitHub Copilot.  So when you create the requirements for the application, write them in terms of prompts.
 
+https://chatgpt.com/share/69176edb-8380-8010-98dc-7d7f7f156ba2
+
 Prompt:  Convert this to a markdown file.
-
-Prompt:  Write a PRD (Product Requirements Document) for this document.
-
-Note:  SRS_Notes.docx
 
 - Tone
 Prompt: Please draft a comprehensive list of technical requirements for a mobile banking app, ensuring the writing is clear, well structured, and professional.
-
-- Technology recommendations
-Prompt:  I'm building a REST API using Node.js and Express.  
-Which option should I use for using authentication for this app?
 
 Interviews
 - Zoom
