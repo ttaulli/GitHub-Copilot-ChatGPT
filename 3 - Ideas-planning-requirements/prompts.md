@@ -15,13 +15,16 @@ Prompt: What are techniques for brainstorming ideas for new products? Use the in
 
 Prompt:  I want to create a software application.  I want to focus on a growth area with positive demographics.  What are some of the best opportunities?
 
+https://chatgpt.com/share/6917653a-0d64-8010-a552-dcae5d441ad9
+
 Prompt:  What are statistics that highlight the growth of the aging of the population?
+
 
 Prompt:  I want to create a vertical SaaS application.  I want to focus on an underserved market that does not have much adoption of technology.  I also want an industry that has many businesses, especially small and medium size ones.  Create a report for this.  Include the industry name, the total revenues in the US and the total number of businesses.  Create a list of 20 of them, which have the most potential for success.
 
 Prompt:  I'm interested in 17.  To better understand this industry, what is the typical operation of a senior living/assisted living facility?
 
-Prompt:  What software solutions are common in this industry and can you tie them to any part of the process of a shop?
+Prompt:  What software solutions are common in this industry and can you tie them to any part of the process of a facility?
 
 Prompt:  Which one would an AI-powered SaaS solution be the best opportunity?
 
@@ -58,11 +61,13 @@ Prompt: List the main competitors for [name the category].  Put this in a table.
 
 - V0 - https://v0.dev/
 
-- Creates the UI and HTML/CSS
+- Creates the UI and HTML/CSS/NextJS
 - Uses AI to build the UI
 - Sample UIs
 
 Prompt:  I'm developing a website for a Resident Engagement & Social Activity Management system designed for senior living facilities. I want to create the dashboard that allows activity coordinators to efficiently plan, schedule, and manage daily social and wellness activities for residents. This should be designed with simplicity and functionality in mind. It will include a calendar view for quick access to upcoming activities and provide options for customizing events based on resident preferences or facility needs. Additionally, the dashboard will enable real-time updates, helping staff stay informed of any changes or cancellations.
+
+https://v0.app/chat/senior-living-dashboard-ttjnTtw5Hir?utm_source=ttaulli&utm_medium=referral&utm_campaign=share_chat&ref=ZES1KM
 
 - Google Stitch - https://stitch.withgoogle.com/
 - Use experimental mode 
