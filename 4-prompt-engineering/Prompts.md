@@ -4,6 +4,8 @@
 * Please, can you ?
 * The underlying datasets may pickup on more accurate content
 
+# Elements of a Good Prompt
+
 # System Message
 
 * Persona or role
@@ -70,7 +72,7 @@ print(_____['erpx'] * _____['nnn'])  # 42 * 7 = 294
 
 ###
 
-Stripe API
+# Using contents
 
 
 Use this prompt:  Here's the Stripe API documentation on confirming a payment intent #fetch https://docs.stripe.com/api. Could you walk me through the steps and show an example in Python?
