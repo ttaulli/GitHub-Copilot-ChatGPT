@@ -157,7 +157,7 @@ Ensure the function handles these cases correctly.
 * A way to learn new concepts
 * Prompt:  Explain inheritance that is used in object-oriented programming by using an analogy.
 
-# Context
+# Context engineering
 
 - Of course, LLMs can't read your mind
 - This is why it's important to provide context
@@ -176,7 +176,3 @@ Ensure the function handles these cases correctly.
     - Use the folder structure and file names to better understand the project context
 - Reduces the need for writing lengthy prompts
 
-- Example of using GitHub Copilot for context for SQL
-- Use sample.sql file
-- Prompt:  Find All Employees in a the sales department
-- Pronpt:  Turn this into a stored procedure
