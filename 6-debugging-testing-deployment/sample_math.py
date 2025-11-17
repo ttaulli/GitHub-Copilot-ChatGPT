@@ -1,8 +1,4 @@
-"""Small math helpers to demonstrate unit testing with pytest and Copilot.
 
-This module is intentionally simple and includes clear edge cases so Copilot
-(or a developer) can be prompted to autogenerate tests.
-"""
 from math import isqrt
 from typing import Iterable, Sequence
 
