@@ -21,13 +21,6 @@
 - Focus on what matters: coding conventions, tech stacks, commit style, issue trackers.
 - Avoid vague requests.
 
-# Next Edit Suggestions (NES)
-- It's about editing existing code
-- Configure this at bottom right copilot icon
-- Used default LLM
-
-nextedit.py 
-
 # IP
 - Code referencing or matching
 - Will detect if AI-code generated matches public repos
@@ -192,6 +185,3 @@ Usually use Object-Relational Mapping (ORM) tools for this.
 Example file for this: artists.sql
 Prompt: Create a model for the artist table
 
-## Clerk
-
-Copy prompt feature

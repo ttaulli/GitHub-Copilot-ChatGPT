@@ -9,7 +9,7 @@
 
 # Rename pizza to pizzaType.
 
-pizzaType  = 'Pepperoni'
+pizzaType = 'Pepperoni'
 print(pizza)
 
 
@@ -40,7 +40,7 @@ def multiply(a: float, b: float = 1) -> float:
     return a * b
 
 # Function with Optional Parameters; use farewell
-def greet(name: str, greeting: str = None) -> str:
+def farewell(name: str, greeting: str = None) -> str:
     return f"{greeting or 'Hello'}, {name}!"
 
 # Fibonacci function
