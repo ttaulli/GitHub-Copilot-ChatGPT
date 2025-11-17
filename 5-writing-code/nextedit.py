@@ -8,22 +8,19 @@
 
 
 # Rename pizza to pizzaType.
+# pizzaType = 'Pepperoni'
+# print(pizza)
 
-pizzaType = 'Pepperoni'
-print(pizza)
 
 
-# Add parameters
 
-def greet(first_name):
-    return f"Hello, {first_name}!"
 
 # Changing class/method/function names
 # change class to 3DPoint
 
 import math
 
-class Point:
+class Point3D:
     def __init__(self, x: float, y: float, z: float):
         self._x = x
         self._y = y
