@@ -183,12 +183,5 @@ Use website.png
 Prompt: Write the code for this
 Use calc.png
 
-## Database Models
 
-Using a SQL schema or file, developers typically build models or classes that represent the structure of the database.
-
-Usually use Object-Relational Mapping (ORM) tools for this.
-
-Example file for this: artists.sql
-Prompt: Create a model for the artist table
 
