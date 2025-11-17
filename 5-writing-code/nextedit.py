@@ -1,13 +1,22 @@
+# Enable Next Edit Suggestions in VS Code
+# Go to Settings
+# macOS: Cmd + ,
+# Windows/Linux: Ctrl + ,
+# In the search bar, type:
+# github.copilot.nextEditSuggestions.enabled
+# Check the box ✔️ to enable it.
+
+
 # Rename pizza to pizzaType.
 
-pizza = 'Pepperoni'
+pizzaType  = 'Pepperoni'
 print(pizza)
 
 
 # Add parameters
 
 def greet(first_name):
-    print("Hello, " + first_name + "!")
+    return f"Hello, {first_name}!"
 
 # Changing class/method/function names
 # change class to 3DPoint
