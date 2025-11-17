@@ -94,3 +94,7 @@ Dockerfile Configuration Prompt
 
 Kubernetes Manifest Prompt
   "Write a Kubernetes deployment and service manifest to deploy a MySQL database with persistent storage in a Kubernetes cluster."
+
+  # unit testing
+  # /tests
+  
