@@ -141,16 +141,3 @@ Prompt:  What about issues?
 - Prompt: In the todo nextjs project, replace the home page with a modern looking to do application. Use TailwindCSS for styling.  The to do items will be stored in the supabase database called todo.  The table is called tasks and has two columns: title (string) and completed (boolean).  The app should allow users to add new tasks, mark tasks as completed, and delete tasks.  Fetch the tasks from the supabase database and display them on the homepage.  Use environment variables for the supabase URL and anon key.
 
 
-# Unit Tests
-- Agent and unit testing
-- GitHub Copilot can create test cases
-- Can't do everything
-- But provide a good start
-- Different types of unit testing frameworks
-- In your prompt, specify the framework
-- Chat tends to have more tests than using in-line chat
-- /tests and run it 
-- tests.py
-
-
-Prompt:  Please create a separate unit test tests.py. The test file should be in the same 7-agent-mcp directory and named test_tests.py. Make sure all import paths are correct for running the tests. Use unittest for the test framework.

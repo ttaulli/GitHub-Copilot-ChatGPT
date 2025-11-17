@@ -95,6 +95,17 @@ Dockerfile Configuration Prompt
 Kubernetes Manifest Prompt
   "Write a Kubernetes deployment and service manifest to deploy a MySQL database with persistent storage in a Kubernetes cluster."
 
-  # unit testing
-  # /tests
+ # Unit Tests
+- Agent and unit testing
+- GitHub Copilot can create test cases
+- Can't do everything
+- But provide a good start
+- Different types of unit testing frameworks
+- In your prompt, specify the framework
+- Chat tends to have more tests than using in-line chat
+- /tests and run it 
+- tests.py
+
+
+Prompt:  Please create a separate unit test for sample_math.py. The test file should be in the root directory and named tests.py. Make sure all import paths are correct for running the tests. Use unittest for the test framework.
   
