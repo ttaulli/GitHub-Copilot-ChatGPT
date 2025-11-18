@@ -7,16 +7,14 @@ Creating an app
 
 Prompt:  I want to create a web application that provides weather information for a given city.  I want to use a free API.  Also, what do you suggest for the tech stack?
 
-In the terminal:  npx create-next-app@latest weather-app
+Prompt:  Create a nextjs app in the root of my project. call it weather-app.
 
-npm run dev
+Prompt: Create the UI for my weather app. Have a title that says Weather App. Then have a search box for the city and state. And a button. Make the UI look clean and modern.
 
-
-Prompt: I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Replace the homepage with a modern looking form that allows users to enter a city name and submit it.  Use TailwindCSS for styling.  Use the openweathermap API to fetch and display the current weather for the entered city.  Add client-side validation to ensure the city name is not empty before submission. The API key will go into the .env.local file. 
+Prompt:  integrate this api for fetching the weather information: https://openweathermap.org/api
 
 
 Selection:
-- Nextjs
 - OpenWeatherMap API
 - https://openweathermap.org/api
 - Register and get the API
