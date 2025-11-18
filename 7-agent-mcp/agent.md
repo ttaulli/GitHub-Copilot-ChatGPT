@@ -13,6 +13,8 @@ Prompt: Create the UI for my weather app. Have a title that says Weather App. Th
 
 Prompt:  integrate this api for fetching the weather information: https://openweathermap.org/api
 
+Deply on Vercel
+
 
 Selection:
 - OpenWeatherMap API
