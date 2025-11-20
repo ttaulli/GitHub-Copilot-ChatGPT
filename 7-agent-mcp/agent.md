@@ -61,9 +61,11 @@ Local MCPs
 
 stdio
 
+Google antigravity
 
+https://antigravity.google/
 
-
+Prompt: I want to create a web application that provides weather information for a given city.  Write this using nextjs.  Also, use the openweather api.  
 
 
 
