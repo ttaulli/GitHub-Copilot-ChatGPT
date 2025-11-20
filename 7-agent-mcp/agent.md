@@ -28,7 +28,13 @@ MCP Demo
 - Select Agent Mode from the dropdown menu.​
 - You can find MCP servers here: https://github.com/modelcontextprotocol/servers
 - https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025
-.vscode
+.vscode/mcp.json
+
+Prompt:  Give me the Azure CLI commands to create an Azure Container App with a managed identity. search Microsoft Learn
+
+List the default retention period for Azure Monitor logs. search Microsoft Learn
+
+
 
 
 
