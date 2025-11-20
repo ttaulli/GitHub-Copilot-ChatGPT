@@ -30,9 +30,36 @@ MCP Demo
 - https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025
 .vscode/mcp.json
 
+
+For the Microsoft Learn MCP:
+
 Prompt:  Give me the Azure CLI commands to create an Azure Container App with a managed identity. search Microsoft Learn
 
 List the default retention period for Azure Monitor logs. search Microsoft Learn
+
+For the GitHub MCP:
+
+Prompt: Show me the contents of the README.md file
+Prompt: What's in the 7-agent-mcp directory?
+Prompt: Read the copilot-instructions.md file from .github
+Prompt: Show me the structure of the api_server folder
+Prompt: Get the latest version of CHANGELOG.md from GitHub
+
+For the Neon MCP:
+
+Prompt: Show me all databases, schemas, and tables in my Neon project.
+
+Prompt: Describe the structure of the public schema, including constraints.
+
+Prompt: List all tables that currently have no primary key.
+
+Prompt: Show any foreign keys and explain table relationships.”
+
+Prompt: Find the largest tables in the database and summarize row counts.”
+
+Local MCPs
+
+stdio
 
 
 

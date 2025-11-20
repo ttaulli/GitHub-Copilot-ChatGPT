@@ -3,7 +3,17 @@
 		"Microsoft Learn MCP": {
 			"url": "https://learn.microsoft.com/api/mcp",
 			"type": "http"
-		}
+		},
+		  "github": {
+      		"type": "http",
+      		"url": "https://api.githubcopilot.com/mcp/"
+    	},
+		"Neon": {
+      		"url": "https://mcp.neon.tech/mcp",
+      		"headers": {
+        	"Authorization": "Bearer <napi_fewdf52mxcdkbr64guxahwl6sj5wumv9qgeq79ljmq1j43b7u6ct2032p68baznj>"
+      }
+    }
 	},
 	"inputs": []
 }
