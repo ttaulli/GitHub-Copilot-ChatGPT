@@ -3,10 +3,28 @@
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
 # Tab to accept; esc to cancel
 
+# create a python function that converts fahrenheit to celsius
+def convert_fahrenheit_to_celsius(fahrenheit):
+    celsius = (fahrenheit - 32) * 5.0/9.0
+    return celsius
+
+
+# create a python function that converts fahrenheit to celsius
+
+def multiply(a, b):
+    return a * b
+
+# create a function that converts fahrenheit to celsius
+
 
 # Start with def convert
 # def multiply(a, b):
-  
+
+def multiply(a, b):
+    return a * b    
+
+def multiply(a, b):
+    return a * b
 
 # Create code by using Chat
 # Click Copilot icon on top right of the screen
